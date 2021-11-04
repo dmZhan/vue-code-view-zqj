@@ -1,0 +1,15 @@
+# 忽略目录 
+examples/
+node_modules/
+public/
+build/
+src/
+dist/
+deploy/
+# 忽略指定文件 
+.browserslistrc 
+.eslintignore 
+.prettierignore 
+.env
+.env.*
+*.js  
